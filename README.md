@@ -14,7 +14,7 @@ Before installation make sure you have the latest version of Chrome installed an
 1) Go to 'chrome://extensions'
 2) Enable developer mode
 3) Click "Loan Unpacked"
-4) Select the folder named "Chrome Extension"
+4) Select the folder named "ChromeExtension"
 
 <img src="https://github.com/jasonhamilton/gamisodes-bulk-claim-tool/raw/main/img/installation.png?raw=true" width="700">
 
