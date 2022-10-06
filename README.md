@@ -1,5 +1,10 @@
-# gamisodes-bulk-claim-tool
-Bulk claiming tool for Gamisodes NFTs
+
+# What is this?
+
+The bulk claiming tool is a Chrome extension that allows Gamisodes NFT holders to bulk transfer their assets to their Dapper wallet in bulk (vs clicking one at a time).  The tool adds a "Claim All" button to the Gamisodes NFT viewer to allow for an easy way to get all of your assets into your wallet(see screenshot).
+
+<img src="https://github.com/jasonhamilton/gamisodes-bulk-claim-tool/raw/main/img/bulk_caim_button.png?raw=true" width="500">
+
 
 
 # Installation
