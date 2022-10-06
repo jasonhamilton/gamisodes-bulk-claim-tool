@@ -1,0 +1,21 @@
+{
+  "name": "Gamisodes Bulk Claim Extension",
+  "description": "Claim your NFTs in bulk!",
+  "version": "1.0",
+  "manifest_version": 3,
+  "host_permissions": [
+        "https://*.mint.store/*"
+    ],
+  "permissions": ["storage", "activeTab", "scripting" ],
+   "content_scripts": [
+   {
+     "matches": ["https://gamisodes.mint.store/nft"],
+     "js": ["content-script.js"]
+   }],
+   "web_accessible_resources": [
+   {
+    "resources": ["inject.js"],
+    "matches": ["<all_urls>"]
+   }]
+ 
+}
