@@ -22,4 +22,13 @@ Before installation make sure you have the latest version of Chrome installed an
 
 # Usage
 
-Navigate directly to the main page of your wallet and use the "Claim All" button to handle bulk claiming.
+Navigate to the main page of the Gamisodes NFT viewer and use the "Claim All" button to handle bulk claiming.  
+
+
+# FAQ
+
+**Why is the button not showing up?** If the button does not show up try refreshing the page.
+
+**Can I do this from my mobile phone?**  No, you must use the desktop version of Chrome for the plugin to work.
+
+**Is this safe?** Yes; the code is fully open-source and has been audited to ensure no funny stuff.  Make sure to download the code directly from this repository. 
