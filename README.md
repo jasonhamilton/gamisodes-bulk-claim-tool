@@ -9,12 +9,14 @@ The bulk claiming tool is a Chrome extension that allows Gamisodes NFT holders t
 
 # Installation
 
-Before installation make sure you have the latest version of Chrome installed and have downloaded the extension.
+Before installation make sure you have the latest version of Chrome installed and then downloaded this extension here: https://github.com/jasonhamilton/gamisodes-bulk-claim-tool/archive/refs/heads/main.zip
 
-1) Go to 'chrome://extensions'
+1) In Chrome navigate to 'chrome://extensions'
 2) Enable developer mode
 3) Click "Loan Unpacked"
 4) Select the folder named "ChromeExtension"
+
+That's it!
 
 <img src="https://github.com/jasonhamilton/gamisodes-bulk-claim-tool/raw/main/img/installation.png?raw=true" width="700">
 
